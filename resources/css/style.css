@@ -1,4 +1,4 @@
-html
+body
 {
   background-color: black;
   text-align: center;
@@ -11,9 +11,9 @@ h1
   color: white;
   text-align: center;
 }
-h3
+#downloadlink
 {
-  color: #7FFFD4;
+  color: aquamarine;
   font-size: 16px;
 }
 #personalguide
